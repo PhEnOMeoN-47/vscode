@@ -27,6 +27,8 @@ int main(){
     cout << endl;
     vector<int> result = slargest(slar);
     cout << result[0] << " " << result[1] << endl;
+
+
     return 0;
 }
 
